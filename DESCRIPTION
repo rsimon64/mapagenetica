@@ -1,0 +1,11 @@
+Package: mapagenetica
+Type: Package
+Title: Grafica un Mapa Genetica
+Version: 0.1.0
+Author: Reinhard Simon
+Maintainer: Reinhard Simon <rsimon64@gmail.com>
+Description: Dibujar un mapa genetica.
+License: GPl-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
